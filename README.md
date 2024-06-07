@@ -1,4 +1,4 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Aayush 😃
+Hi! I'm Aayush. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
 ML and Data Science Engineer
@@ -8,7 +8,7 @@ I'm a relentless learner with a knack for grasping any subject matter swiftly, a
 
 * 🌍  I'm based in Noida
 * ✉️  You can contact me at [aayushjain981@gmail.com](mailto:aayushjain981@gmail.com)
-* 🤝  I'm open to collaborating on Deep learning and GenAI projects
+* 🤝  I'm open to collaborating on Deep Learning, GenAI, and Quant projects
 * ⚡  Exploring competitive programming
 
 ### Skills
