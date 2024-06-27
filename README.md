@@ -4,12 +4,12 @@ Hi! I'm Aayush. ![](https://user-images.githubusercontent.com/18350557/176309783
 ML and Data Science Engineer
 ----------------------------
 
-I'm a relentless learner with a knack for grasping any subject matter swiftly, as long as I'm able to follow my innate curiosity. I've immersed myself in Machine Learning and GenAI, applying theoretical knowledge to practical solutions. I've recently completed an internship at a burgeoning startup in Delhi, building RAG models and computer vision application prototypes. Let's connect to explore potential areas of collaboration!
+I'm a relentless learner with a knack for grasping any subject matter swiftly, as long as I'm able to follow my innate curiosity. I've been building in Machine Learning and GenAI, applying theoretical knowledge to practical solutions. I've recently completed an internship at a burgeoning startup in Delhi, building RAG models and computer vision application prototypes. Let's connect to explore potential areas of collaboration!
 
 * 🌍  I'm based in Noida
 * ✉️  You can contact me at [aayushjain981@gmail.com](mailto:aayushjain981@gmail.com)
 * 🤝  I'm open to collaborating on Deep Learning, GenAI, and Quant projects
-* ⚡  Exploring competitive programming
+* ⚡  I'm also starting out in competitive programming
 
 ### Skills
 
