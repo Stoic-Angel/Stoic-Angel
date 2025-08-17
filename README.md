@@ -1,15 +1,13 @@
 Hi! I'm Aayush. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Machine Learning & Data Science
-----------------------------
+Machine Learning, Generative AI, Deep Learning
+----------------------------------------------
+ 
+Hmu if you're working on cracked projects or want to have a chat!
 
-I'm a relentless learner with a knack for grasping any subject matter swiftly, as long as I'm able to follow my innate curiosity. I've been building in Machine Learning and GenAI, applying theoretical knowledge to practical solutions. I've had enriching hands-on experiences, building RAG models and computer vision application prototypes for various enterprises. Hmu if you're working on cracked projects or want to have a chat!
-
-* 🌍  I'm based in Noida
-* ✉️  You can contact me at [aayushjain981@gmail.com](mailto:aayushjain981@gmail.com)
-* 🤝  I'm open to collaborating on Deep Learning, GenAI, and Quant projects
-* ⚡  Starting out with competitive programming
+* 🌍  Based in Noida
+* ✉️  Contact me at [aayushjain981@gmail.com](mailto:aayushjain981@gmail.com)
 
 ### Skills
 
