@@ -1,4 +1,4 @@
-Hi, I'm Aayush. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+👋🏼 Hi, I'm Aayush.
 ===================================================================================================================================
 
 Machine Learning, Generative AI, Deep Learning
@@ -7,7 +7,7 @@ Machine Learning, Generative AI, Deep Learning
 Hmu if you're working on cracked projects or want to have a chat!
 
 * 🌍  Based in Noida
-* ✉️  Contact me at [aayushjain981@gmail.com](mailto:aayushjain981@gmail.com)
+* ✉️  Say hi at [aayushjain981@gmail.com](mailto:aayushjain981@gmail.com)
 
 ### Skills
 
