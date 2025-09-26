@@ -1,12 +1,8 @@
-<!-- Dynamic Language Banner -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stoic-Angel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 <!-- Alternative Language Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 👋🏼 Hi, I'm Aayush.
 ===================================================================================================================================
@@ -14,18 +10,10 @@ Machine Learning, Generative AI, Deep Learning
 ----------------------------------------------
  
 Hmu if you're working on cracked projects or want to have a chat!
-*
- 🌍  Based in Noida
-*
- ✉️  Say hi at 
-[
-aayushjain981@gmail.com
-]
-(
-mailto:aayushjain981@gmail.com
-)
-###
- Skills
+* 🌍  Based in Noida
+* ✉️  Say hi at aayushjain981@gmail.com
+
+### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
