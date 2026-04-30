@@ -10,7 +10,7 @@
  
 Hmu if you're working on cracked projects or want to have a chat!
 
-* 🌍  Based in Noida
+* 🌍  Based in Bangalore
 * ✉️  Say hi at aayushjain981@gmail.com
 
 
