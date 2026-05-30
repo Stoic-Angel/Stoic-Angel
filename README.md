@@ -1,12 +1,8 @@
 <div align="center">
 
-# Aayush Jain
-
 **Backend · Voice AI · OSS**
 
 *Delhi, Bangalore → anywhere with good wifi tbh*
-
-<br>
 
 </div>
 
