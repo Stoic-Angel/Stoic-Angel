@@ -1,6 +1,6 @@
 <div align="center">
 
-**Backend · Voice AI · OSS**
+## Backend · Voice AI · OSS
 
 *Delhi, Bangalore → anywhere with good wifi tbh*
 
