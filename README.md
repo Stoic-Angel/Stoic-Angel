@@ -2,7 +2,7 @@
 
 ## Backend · Voice AI · OSS
 
-*Delhi, Bangalore → anywhere with good wifi tbh*
+*Delhi, Bangalore, anywhere with good wifi tbh*
 
 </div>
 
