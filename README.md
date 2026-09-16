@@ -8,6 +8,8 @@
 
 ---
 
+<div align="center">
+
 ### find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Stoic--Angel-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Stoic-Angel)
@@ -19,8 +21,6 @@
 <div align="center">
 
 *hmu if you're building something real*
-
-<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
